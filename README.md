@@ -4,17 +4,37 @@
 <!-- Container para foto com margem negativa -->
 
 
-# 👋 Olá, eu sou Sebastião Alves
+# 👋 Olá, sou Sebastião Alves
 
 ---
 
-## 🚀 Sobre mim
+Desenvolvedor Web Full Stack & DevOps | PHP, WordPress, JavaScript, PostgreSQL, MySQL
+Com 5 anos de experiência, transformo ideias complexas em soluções web escaláveis e de alto desempenho, utilizando Arquitetura Limpa, como o modelo MVC e padrões como PSR-4. usando integração de APIs, desenvolvimento de SaaS, MVPs e práticas DevOps, incluindo CI/CD e automações, com foco em resultados mensuráveis e experiência do usuário.
 
-Sou **Desenvolvedor Web Full Stack | Especialista em WordPress | PHP | JavaScript | DevOps**, apaixonado por criar soluções inteligentes e eficientes que unem desenvolvimento e infraestrutura. Tenho experiência sólida em projetos que vão do front-end ao back-end, com foco em desempenho, segurança e escalabilidade.
+Projetos de Destaque
 
+Solução SaaS de Cobranças: Desenvolvi uma plataforma integrada com APIs do Banco do Brasil e automações Git/GitHub, aumentando a adimplência em 66%, otimizando emissões em 89% e reduzindo o tempo de implementação em 75%, com 96% de melhoria na velocidade de carregamento.
+
+Site lemtelecom.com.br: Criei um site em WordPress com integração de API do Google, facilitando a localização de filiais em tempo real e melhorando a experiência do usuário.
+
+Diferencial
+Apaixonado por código limpo, testes automatizados e colaboração em equipes multifuncionais, prospero em ambientes ágeis, implementando pipelines DevOps eficientes e entregando software robusto alinhado às necessidades do negócio.
+
+Vamos construir algo inovador juntos?
+
+Para saber mais sobre meu trabalho, visite meu site: www.profsebastião.com.br
+## 🛠️ Minhas Ferramentas e linguagens
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"> 
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> 
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
+  <img src="https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
+</div>
 ✨ Minhas paixões incluem:
 
-- Desenvolvimento web moderno: **HTML5, CSS3, JavaScript, PHP, Node.js**
+- Desenvolvimento web moderno: **HTML5, CSS3, JavaScript, PHP**
 - Frameworks e CMS: **WordPress (especialista)**
 - DevOps e automação: **Docker, Portainer, CI/CD, VPS, Linux, Apache**
 - Design gráfico e UI/UX: **Photoshop, Photopea, GIMP**
@@ -31,6 +51,8 @@ Repositório com arquivos de configuração, documentação e scripts úteis par
 Projeto Docker Swarm otimizado para WordPress com MySQL, focado em alta disponibilidade e performance.
 
 *(Confira meus outros projetos e contribuições no meu perfil!)*
+
+
 
 ---
 

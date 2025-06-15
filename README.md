@@ -68,11 +68,5 @@ Projeto Docker Swarm otimizado para WordPress com MySQL, focado em alta disponib
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Sebastião Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=profsebastiao&show_icons=true&theme=dark&count_private=true)
-
----
-
 ### ⚡ Curioso sobre o que eu posso fazer?  
 Vamos construir algo incrível juntos! Entre em contato. 😊

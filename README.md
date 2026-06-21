@@ -60,11 +60,11 @@ Projeto Docker Swarm otimizado para WordPress com MySQL, focado em alta disponib
 
 | Plataforma       | Link                                                    |
 |------------------|---------------------------------------------------------|
-| 🌐 Website       | [Meu site](https://profsebastiao.com.br)                      |
+| 🌐 Website       | [Meu site](www.sebastiao.dev.br)                      |
 | 💼 LinkedIn      | [Sebastião Alves](https://linkedin.com/in/profsebastiao) |
 | 📧 E-mail        | devsebastiao.alves@gmail.com                                     |
-| 📸 Instagram     | [@seuinstagram](https://instagram.com/seuinstagram)     |
-| ▶️ YouTube       | [Seu Canal](https://www.youtube.com/@vivendocomtecnologia)                |
+| 📸 Instagram     | [@seuinstagram](https://www.instagram.com/sdevbr/)     |
+| ▶️ YouTube       | [Seu Canal](https://www.youtube.com/@Sdevbr)                |
 
 ---
 

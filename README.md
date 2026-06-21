@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFY9aVn6_ybUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1691611385126?e=1754524800&v=beta&t=FDYUd9lpX-J_6q1w7x3HOaNTONhkLAoPyUjgxo-nfz8" alt="Banner" width="100%" />
+<img src="https://yt3.googleusercontent.com/MdwYoFfeOevYyGs7XIf4QDS9p1x_Z7MYdeAjdpJXjMrojHeibAx0u0wrL2SqjWTjCknLa4An=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
 
 <!-- Container para foto com margem negativa -->
 
